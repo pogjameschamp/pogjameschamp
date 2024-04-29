@@ -4,5 +4,4 @@ Hello and welcome to my GitHub profile! Feel free to browse through my repositor
 
 ### Current Projects
 
-### TabTutor
 I'm currently primarily working on **TabTutor**, a Chrome extension that allows users to practice words or phrases whenever they open up a new tab. This extension is designed to help improve vocabulary and language skills effortlessly by integrating learning into everyday web browsing.
